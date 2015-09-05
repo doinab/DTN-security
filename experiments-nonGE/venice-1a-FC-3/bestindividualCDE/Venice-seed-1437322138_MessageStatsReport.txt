@@ -1,0 +1,20 @@
+Message stats for scenario Venice-seed-1437322138
+sim_time: 18000.0000
+created: 600
+started: 18917
+relayed: 18911
+aborted: 5
+dropped: 1
+removed: 18911
+delivered: 104
+delivery_prob: 0.1733
+response_prob: 0.0000
+overhead_ratio: 180.8365
+latency_avg: 3452.4038
+latency_med: 2579.0000
+hopcount_avg: 31.7981
+hopcount_med: 24
+buffertime_avg: 114.4213
+buffertime_med: 56.0000
+rtt_avg: NaN
+rtt_med: NaN

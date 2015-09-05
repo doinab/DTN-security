@@ -1,0 +1,11 @@
+# the numbers are averages over exp. repetitions; 
+# runtime rounded and in core-hours
+#
+# "group size"	"generations"	"evaluations"	"runtime"
+#
+"Venice, First Contact,\n group-based natural selection"
+"1"		123	2340.4	124
+"2"		109.5	4763.75	163
+"[1-5]"		90.6	3176	145
+"[6-10]"	78.8	2705.4	375
+"[11-20]"	46	1659	195

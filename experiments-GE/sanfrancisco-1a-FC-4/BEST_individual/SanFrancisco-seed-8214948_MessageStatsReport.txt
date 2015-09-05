@@ -1,0 +1,20 @@
+Message stats for scenario SanFrancisco-seed-8214948
+sim_time: 18000.0000
+created: 600
+started: 14560
+relayed: 14527
+aborted: 33
+dropped: 0
+removed: 14527
+delivered: 72
+delivery_prob: 0.1200
+response_prob: 0.0000
+overhead_ratio: 200.7639
+latency_avg: 2040.2500
+latency_med: 1439.0000
+hopcount_avg: 22.6528
+hopcount_med: 16
+buffertime_avg: 88.2404
+buffertime_med: 39.0000
+rtt_avg: NaN
+rtt_med: NaN

@@ -1,0 +1,11 @@
+# the numbers are averages over exp. repetitions; 
+# runtime rounded and in core-hours
+#
+# "group size"	"generations"	"evaluations"	"runtime"
+#
+"San Francisco, First Contact,\n group-based natural selection"
+"1"		26.2		544		13
+"2"		50.8		2150		57
+"[1-5]"		41		1437.2		31
+"[6-10]"	61		2180.4		57
+"[11-20]"	45.8		1727.8		54

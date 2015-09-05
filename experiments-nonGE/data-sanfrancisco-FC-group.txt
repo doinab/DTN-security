@@ -1,0 +1,12 @@
+# interval of no. of attackers,
+# 1-DDR of random individual (average of 150 reps),
+# stdev of random individual,
+# 1-DDR of best individual (average of 10 reps),
+# 95% confidence interval for the DDR of the best individual
+# 1-DDR of best GROUP individual, group size 2+ (average of 10 reps),
+# 95% confidence interval for the DDR of the best individual
+1	0.6937	0.0600	0.8100	0.0093
+2	0.7346	0.0701	0.8768	0.0074	0.8778	0.0112
+5	0.8030	0.0597	0.9392	0.0061	0.9398	0.0054
+10	0.8697	0.0489	0.9610	0.0051	0.9688	0.0034
+20	0.9309	0.0113	0.9692	0.0033	0.9845	0.0020
