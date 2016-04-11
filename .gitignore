@@ -1,0 +1,8 @@
+.DS_Store
+
+# ignore all backup files
+*~
+
+# Don't ignore this file
+!.gitignore
+

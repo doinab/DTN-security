@@ -1,4 +1,0 @@
-# interval of no. of attackers,
-# 1-DDR of random individual (average of 10 reps),
-# stdev of random individual
-0	0.6580	0.0072
