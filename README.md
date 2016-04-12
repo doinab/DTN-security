@@ -2,8 +2,8 @@
 Simulation configurations used for studying the resilience of delay-tolerant network (DTN) protocols to standard attacks.
 
 References
-- D. Bucur, G. Iacca, M. Gaudesi, G. Squillero, A. Tonda, Optimizing groups of colluding strong attackers in mobile urban communication networks with evolutionary algorithms, Applied Soft Computing, Elsevier, Volume 40, Pages 416-426, March 2016
-- D. Bucur, G. Iacca, G. Squillero, A. Tonda, Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vulnerabilities in Disruption-Tolerant Networks, Proc. of EvoApps, LNCS, Springer, Copenaghen, March 2015
+- D. Bucur, G. Iacca, M. Gaudesi, G. Squillero, A. Tonda, Optimizing groups of colluding strong attackers in mobile urban communication networks with evolutionary algorithms, Applied Soft Computing, Elsevier, Volume 40, Pages 416-426, March 2016 [bib](http://dblp.uni-trier.de/rec/bibtex/journals/asc/BucurIGST16)
+- D. Bucur, G. Iacca, G. Squillero, A. Tonda, Black Holes and Revelations: Using Evolutionary Algorithms to Uncover Vulnerabilities in Disruption-Tolerant Networks, Proc. of EvoApps, LNCS, Springer, Copenaghen, March 2015 [bib](http://dblp.uni-trier.de/rec/bibtex/conf/evoW/BucurIST15)
 
 Prerequisites
 - ugp3 3.3.0_645+	http://ugp3.sourceforge.net
